@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://openscilab.com/">
-  <img src="https://openscilab.com/static/media/hero.d24b8d07.svg" height=300/>
+  <img src="https://openscilab.com/static/media/hero.d24b8d07.svg" width="550"/>
 </a>
 </div>
 
