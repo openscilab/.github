@@ -44,7 +44,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/openscilab/pymilo">PyRGG</a></td>
+    <td align="center"><a href="https://github.com/openscilab/pymilo">PyMilo</a></td>
     <td align="center">PyMilo: Python for ML I/O</td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/openscilab/pymilo.svg?style=social&logo=github&label=Stars">
@@ -55,7 +55,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
     </td>
   </tr>
     <tr>
-    <td align="center"><a href="https://github.com/openscilab/nava">PyRGG</a></td>
+    <td align="center"><a href="https://github.com/openscilab/nava">Nava</a></td>
     <td align="center">🎵 Playing Sounds in Python</td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/openscilab/nava.svg?style=social&logo=github&label=Stars">
