@@ -33,6 +33,18 @@ OpenSciLab is a team of independent open-source developers committed to providin
       <img src="https://img.shields.io/github/last-commit/sepandhaghighi/pycm.svg?style=social&logo=github&label=Last Update">
     </td>
   </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/sepandhaghighi/pyrgg">PyRGG</a></td>
+    <td align="center">🔧 Python Random Graph Generator</td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg.svg?style=social&logo=github&label=Stars">
+      <img src="https://img.shields.io/github/forks/sepandhaghighi/pyrgg.svg?style=social&logo=github&label=Forks">
+            <a href="http://pepy.tech/project/pyrgg">
+        <img src="http://pepy.tech/badge/pyrgg">
+      </a>
+      <img src="https://img.shields.io/github/last-commit/sepandhaghighi/pyrgg.svg?style=social&logo=github&label=Last Update">
+    </td>
+  </tr>
 </table> 
 </div>
 
