@@ -27,6 +27,9 @@ OpenSciLab is a team of independent open-source developers committed to providin
     <td align="center">
       <img src="https://img.shields.io/github/stars/sepandhaghighi/pycm.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/sepandhaghighi/pycm.svg?style=social&logo=github&label=Forks">
+      <a href="http://pepy.tech/project/pycm">
+        <img src="http://pepy.tech/badge/pycm">
+      </a>
       <img src="https://img.shields.io/github/last-commit/sepandhaghighi/pycm.svg?style=social&logo=github&label=Last Update">
     </td>
   </tr>
