@@ -32,7 +32,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
       </a>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td align="center"><a href="https://github.com/sepandhaghighi/pyrgg">PyRGG</a></td>
     <td align="center">🔧 Python Random Graph Generator</td>
     <td align="center">
@@ -43,6 +43,29 @@ OpenSciLab is a team of independent open-source developers committed to providin
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/openscilab/pymilo">PyRGG</a></td>
+    <td align="center">PyMilo: Python for ML I/O</td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/openscilab/pymilo.svg?style=social&logo=github&label=Stars">
+      <img src="https://img.shields.io/github/forks/openscilab/pymilo.svg?style=social&logo=github&label=Forks">
+            <a href="http://pepy.tech/project/pymilo">
+        <img src="http://pepy.tech/badge/pymilo">
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/openscilab/nava">PyRGG</a></td>
+    <td align="center">🎵 Playing Sounds in Python</td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/openscilab/nava.svg?style=social&logo=github&label=Stars">
+      <img src="https://img.shields.io/github/forks/openscilab/nava.svg?style=social&logo=github&label=Forks">
+            <a href="http://pepy.tech/project/nava">
+        <img src="http://pepy.tech/badge/nava">
+      </a>
+    </td>
+  </tr>
+  
 </table> 
 </div>
 
