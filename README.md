@@ -1,1 +1,1 @@
-Go to `profile/README.md`
+Linked readme file is `profile/README.md`.

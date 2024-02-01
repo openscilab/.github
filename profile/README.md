@@ -25,9 +25,9 @@ OpenSciLab is a team of independent open-source developers committed to providin
     <td align="center"><a href="https://github.com/sepandhaghighi/pycm">PyCM</a></td>
     <td align="center">Multi-class confusion matrix library in Python</td>
     <td align="center">
-      <img src="https://img.shields.io/github/stars/sepandhaghighi/pycm.svg?style=social&label=Stars">
-      <img src="https://img.shields.io/github/forks/sepandhaghighi/pycm.svg?style=social&label=Forks">
-      <img src="https://img.shields.io/github/last-commit/sepandhaghighi/pycm.svg?style=social&label=Last Commit">
+      <img src="https://img.shields.io/github/stars/sepandhaghighi/pycm.svg?style=social&logo=github&label=Stars">
+      <img src="https://img.shields.io/github/forks/sepandhaghighi/pycm.svg?style=social&logo=github&label=Forks">
+      <img src="https://img.shields.io/github/last-commit/sepandhaghighi/pycm.svg?style=social&logo=github&label=Last Update">
     </td>
   </tr>
 </table> 
@@ -35,14 +35,16 @@ OpenSciLab is a team of independent open-source developers committed to providin
 
 ## Contact Us
 
-<a href="https://www.linkedin.com/company/openscilab" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/company/openscilab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://medium.com/@social_62465" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+  <a href="https://medium.com/@social_62465" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 
-<a href="https://twitter.com/openscilabx">
-  <img src="[https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style=](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)"/>
-</a>
+  <a href="https://twitter.com/openscilabx">
+    <img src="[https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style=](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)"/>
+  </a>
+</div>
