@@ -30,7 +30,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
       <a href="http://pepy.tech/project/pycm">
         <img src="http://pepy.tech/badge/pycm">
       </a>
-      <img src="https://img.shields.io/github/last-commit/sepandhaghighi/pycm.svg?style=social&logo=github&label=Last Update">
+      <img src="https://img.shields.io/github/last-commit/sepandhaghighi/pycm.svg?style=social&logo=github&label=Updated">
     </td>
   </tr>
     <tr>
@@ -42,7 +42,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
             <a href="http://pepy.tech/project/pyrgg">
         <img src="http://pepy.tech/badge/pyrgg">
       </a>
-      <img src="https://img.shields.io/github/last-commit/sepandhaghighi/pyrgg.svg?style=social&logo=github&label=Last Update">
+      <img src="https://img.shields.io/github/last-commit/sepandhaghighi/pyrgg.svg?style=social&logo=github&label=Updated">
     </td>
   </tr>
 </table> 
