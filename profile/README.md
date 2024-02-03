@@ -76,7 +76,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
     <img src="https://img.shields.io/badge/Website-224cf2?style=for-the-badge"/>
   </a>
 
-  <a href="https://discord.com/27J5SmWmdf" style="text-decoration: none">
+  <a href="https://discord.com/invite/27J5SmWmdf" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord"/>
   </a>
 
