@@ -72,6 +72,14 @@ OpenSciLab is a team of independent open-source developers committed to providin
 ## Contact Us
 
 <div align="center">
+  <a href="https://openscilab.com/">
+    <img src="https://img.shields.io/badge/Website-224cf2?style=for-the-badge"/>
+  </a>
+
+  <a href="https://discord.com/27J5SmWmdf">
+    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord"/>
+  </a>
+
   <a href="https://www.linkedin.com/company/openscilab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -81,6 +89,6 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </a>
 
   <a href="https://twitter.com/openscilabx">
-    <img src="[https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style=](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
