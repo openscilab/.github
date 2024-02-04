@@ -22,6 +22,17 @@ OpenSciLab is a team of independent open-source developers committed to providin
     <th align="center">Information</th>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/sepandhaghighi/art">Art</a></td>
+    <td align="center">🎨 ASCII art library for Python</td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/sepandhaghighi/art.svg?style=social&logo=github&label=Stars">
+      <img src="https://img.shields.io/github/forks/sepandhaghighi/art.svg?style=social&logo=github&label=Forks">
+      <a href="http://pepy.tech/project/art">
+        <img src="http://pepy.tech/badge/art">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/sepandhaghighi/pycm">PyCM</a></td>
     <td align="center">Multi-class confusion matrix library in Python</td>
     <td align="center">
@@ -29,6 +40,17 @@ OpenSciLab is a team of independent open-source developers committed to providin
       <img src="https://img.shields.io/github/forks/sepandhaghighi/pycm.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/pycm">
         <img src="http://pepy.tech/badge/pycm">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/sepandhaghighi/samila">Samila</a></td>
+    <td align="center">Generative Art Generator</td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/sepandhaghighi/samila.svg?style=social&logo=github&label=Stars">
+      <img src="https://img.shields.io/github/forks/sepandhaghighi/samila.svg?style=social&logo=github&label=Forks">
+      <a href="http://pepy.tech/project/samila">
+        <img src="http://pepy.tech/badge/samila">
       </a>
     </td>
   </tr>
