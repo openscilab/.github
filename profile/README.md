@@ -60,7 +60,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
     <td align="center">
       <img src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/sepandhaghighi/pyrgg.svg?style=social&logo=github&label=Forks">
-            <a href="http://pepy.tech/project/pyrgg">
+      <a href="http://pepy.tech/project/pyrgg">
         <img src="http://pepy.tech/badge/pyrgg">
       </a>
     </td>
@@ -71,7 +71,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
     <td align="center">
       <img src="https://img.shields.io/github/stars/openscilab/pymilo.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/pymilo.svg?style=social&logo=github&label=Forks">
-            <a href="http://pepy.tech/project/pymilo">
+      <a href="http://pepy.tech/project/pymilo">
         <img src="http://pepy.tech/badge/pymilo">
       </a>
     </td>
@@ -82,7 +82,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
     <td align="center">
       <img src="https://img.shields.io/github/stars/openscilab/nava.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/nava.svg?style=social&logo=github&label=Forks">
-            <a href="http://pepy.tech/project/nava">
+      <a href="http://pepy.tech/project/nava">
         <img src="http://pepy.tech/badge/nava">
       </a>
     </td>
