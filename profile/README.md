@@ -23,7 +23,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sepandhaghighi/art">Art</a></td>
-    <td align="center">🎨 ASCII art library for Python</td>
+    <td align="center">🎨 ASCII Art Library for Python</td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/sepandhaghighi/art.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/sepandhaghighi/art.svg?style=social&logo=github&label=Forks">
@@ -34,7 +34,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sepandhaghighi/pycm">PyCM</a></td>
-    <td align="center">Multi-class confusion matrix library in Python</td>
+    <td align="center">Multi-class Confusion Matrix Library in Python</td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/sepandhaghighi/pycm.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/sepandhaghighi/pycm.svg?style=social&logo=github&label=Forks">
@@ -90,7 +90,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/openscilab/reserver">Reserver</a></td>
-    <td align="center">📦 Reserve your packages on PyPI</td>
+    <td align="center">📦 Reserve Packages on PyPI</td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/openscilab/reserver.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/reserver.svg?style=social&logo=github&label=Forks">
@@ -103,7 +103,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/openscilab/dmeta">DMeta</a></td>
-    <td align="center">🧹 Removing metadata of Microsoft Office files</td>
+    <td align="center">🧹 Remove Metadata from Microsoft Office Files</td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/openscilab/dmeta.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/dmeta.svg?style=social&logo=github&label=Forks">
