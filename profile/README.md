@@ -114,7 +114,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/openscilab/mybutton">MyButton</a></td>
-    <td align="center">🔗 Easy link sharing: </td>
+    <td align="center">🔗 Easy link sharing </td>
     <td align="center">
       <a href="https://mybutton.click/" style="text-decoration: none"><img src="https://img.shields.io/badge/Website-224cf2"/></a>
       <img src="https://img.shields.io/github/stars/openscilab/mybutton.svg?style=social&logo=github&label=Stars">
