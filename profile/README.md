@@ -143,6 +143,17 @@ OpenSciLab is a team of independent open-source developers committed to providin
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/openscilab/parsipy">Parsipy</a></td>
+    <td align="center">📝 NLP Toolkit for Historical Persian Texts in Python </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/openscilab/parsipy.svg?style=social&logo=github&label=Stars">
+      <img src="https://img.shields.io/github/forks/openscilab/parsipy.svg?style=social&logo=github&label=Forks">
+      <a href="http://pepy.tech/project/parsipy">
+        <img src="http://pepy.tech/badge/parsipy">
+      </a>
+    </td>
+  </tr>
    
 </table> 
 </div>
