@@ -155,7 +155,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/openscilab/ipspot">Ipspot</a></td>
+    <td align="center"><a href="https://github.com/openscilab/ipspot">ipspot</a></td>
     <td align="center">🛜 A Python Tool to Fetch the System's IP Address </td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/openscilab/ipspot.svg?style=social&logo=github&label=Stars">
