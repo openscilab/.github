@@ -34,7 +34,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sepandhaghighi/pycm">PyCM</a></td>
-    <td align="center">Multi-class Confusion Matrix Library in Python</td>
+    <td align="center">🔢 Multi-class Confusion Matrix Library in Python</td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/sepandhaghighi/pycm.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/sepandhaghighi/pycm.svg?style=social&logo=github&label=Forks">
@@ -45,7 +45,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sepandhaghighi/samila">Samila</a></td>
-    <td align="center">Generative Art Generator</td>
+    <td align="center">🖼️ Generative Art Generator</td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/sepandhaghighi/samila.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/sepandhaghighi/samila.svg?style=social&logo=github&label=Forks">
@@ -67,7 +67,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/openscilab/pymilo">PyMilo</a></td>
-    <td align="center">PyMilo: Python for ML I/O</td>
+    <td align="center">☁️ PyMilo: Python for ML I/O</td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/openscilab/pymilo.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/pymilo.svg?style=social&logo=github&label=Forks">
