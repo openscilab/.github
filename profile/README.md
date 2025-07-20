@@ -18,13 +18,13 @@ OpenSciLab is a team of independent open-source developers committed to providin
  <table>
   <tr>
     <th align="center">Project</th>
-    <th align="center">Description</th>
-    <th align="center">Information</th>
+    <th align="left">Description</th>
+    <th align="left">Information</th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sepandhaghighi/art">Art</a></td>
-    <td align="center">🎨 ASCII Art Library for Python</td>
-    <td align="center">
+    <td align="left">🎨 ASCII Art Library for Python</td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/sepandhaghighi/art.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/sepandhaghighi/art.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/art">
@@ -34,8 +34,8 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sepandhaghighi/pycm">PyCM</a></td>
-    <td align="center">🔧 Multi-class Confusion Matrix Library in Python</td>
-    <td align="center">
+    <td align="left">🔧 Multi-class Confusion Matrix Library in Python</td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/sepandhaghighi/pycm.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/sepandhaghighi/pycm.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/pycm">
@@ -45,8 +45,8 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sepandhaghighi/samila">Samila</a></td>
-    <td align="center">🖼️ Generative Art Generator</td>
-    <td align="center">
+    <td align="left">🖼️ Generative Art Generator</td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/sepandhaghighi/samila.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/sepandhaghighi/samila.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/samila">
@@ -56,8 +56,8 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sepandhaghighi/pyrgg">PyRGG</a></td>
-    <td align="center">🔧 Python Random Graph Generator</td>
-    <td align="center">
+    <td align="left">🔧 Python Random Graph Generator</td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/sepandhaghighi/pyrgg.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/pyrgg">
@@ -67,8 +67,8 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/openscilab/pymilo">PyMilo</a></td>
-    <td align="center">☁️ PyMilo: Python for ML I/O</td>
-    <td align="center">
+    <td align="left">☁️ PyMilo: Python for ML I/O</td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/openscilab/pymilo.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/pymilo.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/pymilo">
@@ -78,8 +78,8 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/openscilab/nava">Nava</a></td>
-    <td align="center">🎵 Playing Sounds in Python</td>
-    <td align="center">
+    <td align="left">🎵 Playing Sounds in Python</td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/openscilab/nava.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/nava.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/nava">
@@ -90,8 +90,8 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/openscilab/reserver">Reserver</a></td>
-    <td align="center">📦 Reserve Packages on PyPI</td>
-    <td align="center">
+    <td align="left">📦 Reserve Packages on PyPI</td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/openscilab/reserver.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/reserver.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/reserver">
@@ -103,8 +103,8 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/openscilab/dmeta">DMeta</a></td>
-    <td align="center">🧹 Remove Metadata from Microsoft Office Files</td>
-    <td align="center">
+    <td align="left">🧹 Remove Metadata from Microsoft Office Files</td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/openscilab/dmeta.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/dmeta.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/dmeta">
@@ -114,8 +114,8 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/openscilab/mybutton">MyButton</a></td>
-    <td align="center">🔗 Easy link sharing </td>
-    <td align="center">
+    <td align="left">🔗 Easy link sharing </td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/openscilab/mybutton.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/mybutton.svg?style=social&logo=github&label=Forks">
       <a href="https://mybutton.click/" style="text-decoration: none"><img src="https://img.shields.io/badge/Website-224cf2"/></a>
@@ -123,8 +123,8 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/openscilab/opr">OPR</a></td>
-    <td align="center">🧬 OPR: Optimized Primer</td>
-    <td align="center">
+    <td align="left">🧬 OPR: Optimized Primer</td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/openscilab/opr.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/opr.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/opr">
@@ -134,8 +134,8 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/openscilab/memor">Memor</a></td>
-    <td align="center">📫 Transfer Conversational Memory Across LLMs</td>
-    <td align="center">
+    <td align="left">📫 Transfer Conversational Memory Across LLMs</td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/openscilab/memor.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/memor.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/memor">
@@ -145,8 +145,8 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/openscilab/parsipy">Parsipy</a></td>
-    <td align="center">📝 NLP Toolkit for Historical Persian Texts in Python </td>
-    <td align="center">
+    <td align="left">📝 NLP Toolkit for Historical Persian Texts in Python </td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/openscilab/parsipy.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/parsipy.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/parsipy">
@@ -156,8 +156,8 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/openscilab/ipspot">Ipspot</a></td>
-    <td align="center">🛜 A Python Tool to Fetch the System's IP Address </td>
-    <td align="center">
+    <td align="left">🛜 A Python Tool to Fetch the System's IP Address </td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/openscilab/ipspot.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/ipspot.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/ipspot">
@@ -167,8 +167,8 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/openscilab/xnum">Xnum</a></td>
-    <td align="center">🔢 Universal Numeral System Converter</td>
-    <td align="center">
+    <td align="left">🔢 Universal Numeral System Converter</td>
+    <td align="left">
       <img src="https://img.shields.io/github/stars/openscilab/xnum.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/xnum.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/xnum">
