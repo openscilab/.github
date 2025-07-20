@@ -34,7 +34,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sepandhaghighi/pycm">PyCM</a></td>
-    <td align="center">🔢 Multi-class Confusion Matrix Library in Python</td>
+    <td align="center">🔧 Multi-class Confusion Matrix Library in Python</td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/sepandhaghighi/pycm.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/sepandhaghighi/pycm.svg?style=social&logo=github&label=Forks">
@@ -155,13 +155,24 @@ OpenSciLab is a team of independent open-source developers committed to providin
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/openscilab/ipspot">ipspot</a></td>
+    <td align="center"><a href="https://github.com/openscilab/ipspot">Ipspot</a></td>
     <td align="center">🛜 A Python Tool to Fetch the System's IP Address </td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/openscilab/ipspot.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/ipspot.svg?style=social&logo=github&label=Forks">
       <a href="http://pepy.tech/project/ipspot">
         <img src="http://pepy.tech/badge/ipspot">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/openscilab/xnum">Xnum</a></td>
+    <td align="center">🔢 Universal Numeral System Converter</td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/openscilab/xnum.svg?style=social&logo=github&label=Stars">
+      <img src="https://img.shields.io/github/forks/openscilab/xnum.svg?style=social&logo=github&label=Forks">
+      <a href="http://pepy.tech/project/xnum">
+        <img src="http://pepy.tech/badge/xnum">
       </a>
     </td>
   </tr>
