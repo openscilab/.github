@@ -134,7 +134,7 @@ OpenSciLab is a team of independent open-source developers committed to providin
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/openscilab/memor">Memor</a></td>
-    <td align="left">📫 Transfer Conversational Memory Across LLMs</td>
+    <td align="left">📫 Structured Reproducible Memory for LLMs</td>
     <td align="left">
       <img src="https://img.shields.io/github/stars/openscilab/memor.svg?style=social&logo=github&label=Stars">
       <img src="https://img.shields.io/github/forks/openscilab/memor.svg?style=social&logo=github&label=Forks">
