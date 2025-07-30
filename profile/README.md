@@ -176,6 +176,17 @@ OpenSciLab is a team of independent open-source developers committed to providin
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/openscilab/drux">Drux</a></td>
+    <td align="left">💊 Drug Release Analysis Framework</td>
+    <td align="left">
+      <img src="https://img.shields.io/github/stars/openscilab/drux.svg?style=social&logo=github&label=Stars">
+      <img src="https://img.shields.io/github/forks/openscilab/drux.svg?style=social&logo=github&label=Forks">
+      <a href="http://pepy.tech/project/drux">
+        <img src="http://pepy.tech/badge/drux">
+      </a>
+    </td>
+  </tr>
    
 </table> 
 </div>
