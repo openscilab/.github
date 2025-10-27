@@ -198,6 +198,17 @@ OpenSciLab is a team of independent open-source developers committed to providin
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/openscilab/rokh">Rokh</a></td>
+    <td align="left">♜ Iranian Calendar Events Collection</td>
+    <td align="left">
+      <img src="https://img.shields.io/github/stars/openscilab/rokh.svg?style=social&logo=github&label=Stars">
+      <img src="https://img.shields.io/github/forks/openscilab/rokh.svg?style=social&logo=github&label=Forks">
+      <a href="http://pepy.tech/project/rokh">
+        <img src="http://pepy.tech/badge/rokh">
+      </a>
+    </td>
+  </tr>
    
 </table> 
 </div>
